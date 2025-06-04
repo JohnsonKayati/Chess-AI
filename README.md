@@ -1,4 +1,4 @@
-# ♟ Chess-AI
+#  Chess-AI
 
 A hybrid neural network-based chess AI built with PyTorch, combining the spatial reasoning of Convolutional Neural Networks (CNNs) with the sequential pattern recognition of Transformers. Trained on high-level games (~2000 ELO), the model predicts what a strong player would likely play in a given position.
 
@@ -33,7 +33,7 @@ Together, this hybrid architecture excels at both static evaluation and recogniz
 
 ---
 
-## 🕹 Play Against the AI
+##  Play Against the AI
 
 A playable interface is included via `GM_play.py`, allowing users to test their skills against the trained AI.
 
